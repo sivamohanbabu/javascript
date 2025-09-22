@@ -12,3 +12,5 @@ const c = 78;
 console.log(`value b is ${b}`);
 console.log(`value c is ${c}`);
 console.log(a);
+
+//comment -
